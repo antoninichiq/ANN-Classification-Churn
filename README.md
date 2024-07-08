@@ -12,7 +12,6 @@ This repository contains the implementation of an Artificial Neural Network (ANN
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [Results](#results)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
