@@ -1,4 +1,4 @@
-# ANN-Classification-Churn
+# Artificial-Neural-Network-Streamlit
 
 This repository contains the implementation of an Artificial Neural Network (ANN) for predicting customer churn. The project includes data preprocessing, model training, and deployment using Streamlit.
 
